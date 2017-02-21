@@ -14,7 +14,7 @@ Get onion url
   You will get the onion url in thr stdout
 ```
 
-After system start, it have to take few minute for tor relay
+After system start, it have to take a few minutes to relay
 
 ### Reference
 1. https://github.com/cmehay/docker-tor-hidden-service
