@@ -1,6 +1,12 @@
 # Docker-Tor-Hidden-Service-for-CTF
 Establish a onion website with docker for CTF
 
+### Pre
+```
+  Install docker
+  Install docker-compose
+```
+
 ### Usage
 Download and Run
 ```sh
@@ -11,7 +17,7 @@ Download and Run
 
 Get onion url
 ```
-  You will get the onion url in thr stdout
+  You will get the onion url in the stdout
 ```
 
 After system start, it have to take a few minutes to relay
