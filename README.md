@@ -10,9 +10,11 @@ Establish a onion website with docker for CTF
 ### Usage
 Download and Run
 ```sh
-  git clone https://github.com/yad50968/Docker-Tor-Hidden-Service-for-CTF.git
-  cd Docker-Tor-Hidden-Service-for-CTF
-  docker-compose up
+  $ git clone https://github.com/yad50968/Docker-Tor-Hidden-Service-for-CTF.git
+  $ cd Docker-Tor-Hidden-Service-for-CTF
+  
+  ** Run docker-machine first
+  $ docker-compose up 
 ```
 
 Get onion url
