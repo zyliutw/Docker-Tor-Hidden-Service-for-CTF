@@ -1,1 +1,22 @@
 # Docker-Tor-Hidden-Service-for-CTF
+Establish a onion website with docker
+
+### Usage
+Download and Run
+```sh
+  git clone https://github.com/yad50968/Docker-Tor-Hidden-Service-for-CTF.git
+  cd Docker-Tor-Hidden-Service-for-CTF
+  docker-compose up
+```
+
+Get onion url
+```
+  You will get the onion url in thr stdout
+```
+
+After system start, it have to take few minute for tor relay
+
+### Reference
+1. https://github.com/cmehay/docker-tor-hidden-service
+2. https://github.com/nimmis/docker-apache-php7
+3. https://github.com/yeasy/docker_practice/
