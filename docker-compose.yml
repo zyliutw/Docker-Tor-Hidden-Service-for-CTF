@@ -4,10 +4,9 @@ tor:
     - webapp
   environment:
       PORT_MAP: 80 # Map port to detected service
-  volumes:
-    - ./keys:/var/lib/tor/hidden_service/
 
 webapp:
   image: nimmis/apache-php7
   hostname: webapp
-  volumes: ./www:/var/www/html 
+  volumes: 
+    - ./www:/var/www/html 
