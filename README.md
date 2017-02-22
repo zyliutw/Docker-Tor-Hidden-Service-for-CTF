@@ -19,8 +19,8 @@ Download and Run
 
 Get onion url
 ```
-  You will get the onion url in the stdout<br>
-  And you can't access the website via ip address<br>
+  You will get the onion url in the stdout
+  And you can't access the website via ip address
   It has to use onion url with tor browser
 ```
 
