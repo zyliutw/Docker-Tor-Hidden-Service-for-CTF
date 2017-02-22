@@ -19,7 +19,9 @@ Download and Run
 
 Get onion url
 ```
-  You will get the onion url in the stdout
+  You will get the onion url in the stdout<br>
+  And you can't access the website via ip address<br>
+  It has to use onion url with tor browser
 ```
 
 After system start, it have to take a few minutes to relay
